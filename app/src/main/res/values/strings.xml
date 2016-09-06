@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">five things project</string>
+    <string name="foreword">
+        Thanks for downloading this app!\n\n
+
+        In this app I share 5 \"Easter eggs\" related to Google and can be done on both computers and smartphones\n\n
+
+        Enjoy!
+    </string>
 </resources>
