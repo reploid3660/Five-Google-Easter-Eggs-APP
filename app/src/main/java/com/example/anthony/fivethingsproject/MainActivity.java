@@ -30,6 +30,33 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        //Recursion button
+        Button button03 = (Button)findViewById(R.id.recursion_button);
+        button03.setOnClickListener(new Button.OnClickListener(){
+
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, Recursion.class);
+                startActivity(intent);
+            }
+        });
+        //Tic Tac Toe button
+        Button button04 = (Button)findViewById(R.id.do_a_barrel_roll_button);
+        button04.setOnClickListener(new Button.OnClickListener(){
+
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, DoABarrelRoll.class);
+                startActivity(intent);
+            }
+        });
+        //Flip!Google! button
+        Button button05 = (Button)findViewById(R.id.do_a_barrel_roll_button);
+        button05.setOnClickListener(new Button.OnClickListener(){
+
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, DoABarrelRoll.class);
+                startActivity(intent);
+            }
+        });
     }
 
 }

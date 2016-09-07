@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".AtariBreakout" />
-        <activity android:name=".DoABarrelRoll"></activity>
+        <activity android:name=".DoABarrelRoll" />
+        <activity android:name=".Recursion"></activity>
     </application>
 
 </manifest>
