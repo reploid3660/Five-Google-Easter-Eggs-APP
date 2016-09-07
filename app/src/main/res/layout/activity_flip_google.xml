@@ -29,17 +29,30 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/smart_phone_1" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Then your screen shoud be something like this" />
+            android:text="Then your screen should be something like this" />
+
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/smart_phone_2"/>
+            android:src="@drawable/smart_phone_2" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="3.Slide your phone upward 5 times"/>
+            android:text="3.Slide your phone upward 5 times" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/flip_google_1"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/flip_google_2"/>
     </LinearLayout>
 </ScrollView>
