@@ -12,21 +12,24 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        Button button01 = (Button)findViewById(R.id.atari_breakout);
+        //Atari Breakout button
+        Button button01 = (Button)findViewById(R.id.atari_breakout_button);
         button01.setOnClickListener(new Button.OnClickListener(){
 
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, Main2Activity.class);
+                Intent intent = new Intent(MainActivity.this, AtariBreakout.class);
                 startActivity(intent);
             }
         });
-    }
-    /*
-        **Lead to the Atari Breakout page
-     */
-    private void toAtariBreakout(){
-        setContentView(R.layout.atari_breakout);
+        //Do a barrel roll button
+        Button button02 = (Button)findViewById(R.id.do_a_barrel_roll_button);
+        button02.setOnClickListener(new Button.OnClickListener(){
+
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, DoABarrelRoll.class);
+                startActivity(intent);
+            }
+        });
     }
 
 }
