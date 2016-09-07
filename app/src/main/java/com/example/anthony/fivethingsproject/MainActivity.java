@@ -40,11 +40,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //Tic Tac Toe button
-        Button button04 = (Button)findViewById(R.id.do_a_barrel_roll_button);
+        Button button04 = (Button)findViewById(R.id.tic_tac_toe_button);
         button04.setOnClickListener(new Button.OnClickListener(){
 
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, DoABarrelRoll.class);
+                Intent intent = new Intent(MainActivity.this, TicTacToe.class);
                 startActivity(intent);
             }
         });

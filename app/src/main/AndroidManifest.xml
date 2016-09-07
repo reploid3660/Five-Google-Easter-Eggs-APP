@@ -17,7 +17,8 @@
         </activity>
         <activity android:name=".AtariBreakout" />
         <activity android:name=".DoABarrelRoll" />
-        <activity android:name=".Recursion"></activity>
+        <activity android:name=".Recursion" />
+        <activity android:name=".TicTacToe" />
     </application>
 
 </manifest>
