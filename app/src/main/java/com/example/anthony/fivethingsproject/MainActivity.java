@@ -49,11 +49,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         //Flip!Google! button
-        Button button05 = (Button)findViewById(R.id.do_a_barrel_roll_button);
+        Button button05 = (Button)findViewById(R.id.flip_google_button);
         button05.setOnClickListener(new Button.OnClickListener(){
 
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, DoABarrelRoll.class);
+                Intent intent = new Intent(MainActivity.this, FlipGoogle.class);
                 startActivity(intent);
             }
         });

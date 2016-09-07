@@ -19,6 +19,7 @@
         <activity android:name=".DoABarrelRoll" />
         <activity android:name=".Recursion" />
         <activity android:name=".TicTacToe" />
+        <activity android:name=".FlipGoogle" />
     </application>
 
 </manifest>

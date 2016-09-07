@@ -53,10 +53,11 @@
             android:text="Tic tac toe" />
 
         <Button
+            android:id="@+id/flip_google_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="20dp"
-            android:text="Flip! Google!" />
+            android:text="Flip! Google! (Smartphones only)" />
 
     </LinearLayout>
 </ScrollView>
