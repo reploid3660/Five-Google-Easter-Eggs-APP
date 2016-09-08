@@ -11,13 +11,11 @@
         tools:context="com.example.anthony.fivethingsproject.Recursion">
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="1.Go to google" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="2.Type recursion" />
 
         <ImageView
@@ -26,8 +24,7 @@
             android:src="@drawable/type_recursion" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="3.You will see the following result" />
 
         <ImageView
@@ -36,8 +33,7 @@
             android:src="@drawable/did_you_mean_recursion" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="4.Click on recursion, and see what happens?" />
     </LinearLayout>
 </ScrollView>
