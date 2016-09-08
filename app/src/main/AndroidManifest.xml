@@ -15,11 +15,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AtariBreakout" />
-        <activity android:name=".DoABarrelRoll" />
-        <activity android:name=".Recursion" />
-        <activity android:name=".TicTacToe" />
-        <activity android:name=".FlipGoogle" />
+        <activity
+            android:name=".AtariBreakout"
+            android:label="Atari Breakout" />
+        <activity
+            android:name=".DoABarrelRoll"
+            android:label="Do A Barrel Roll" />
+        <activity
+            android:name=".Recursion"
+            android:label="Recursion" />
+        <activity
+            android:name=".TicTacToe"
+            android:label="Tic Tac Toe" />
+        <activity
+            android:name=".FlipGoogle"
+            android:label="Flip! Google!" />
     </application>
 
 </manifest>
