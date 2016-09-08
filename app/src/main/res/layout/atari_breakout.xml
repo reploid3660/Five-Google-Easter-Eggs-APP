@@ -9,8 +9,7 @@
         android:orientation="vertical">
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="1.Go to google and click on Images" />
 
         <ImageView
@@ -19,8 +18,7 @@
             android:src="@drawable/google_images" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="2.Type in atari breakout" />
 
         <ImageView
@@ -29,8 +27,7 @@
             android:src="@drawable/type_atari_breakout" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="3.Enjoy the classic game!" />
 
         <ImageView
