@@ -29,9 +29,9 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/button_red"
+            android:onClick="atariBreakoutButton"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
-            android:onClick="atariBreakoutButton"
             android:text="Atari Breakout" />
 
         <Button
@@ -42,9 +42,9 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/button_yellow"
+            android:onClick="doABarrelRollButton"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
-            android:onClick="doABarrelRollButton"
             android:text="Do a barrel roll" />
 
         <Button
@@ -55,6 +55,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/button_blue"
+            android:onClick="recursionButton"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Recursion" />
@@ -67,6 +68,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/button_green"
+            android:onClick="ticTacToeButton"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Tic tac toe" />
@@ -78,6 +80,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/button_red"
+            android:onClick="flipGoogleButton"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Flip! Google! (Smartphones only)" />
