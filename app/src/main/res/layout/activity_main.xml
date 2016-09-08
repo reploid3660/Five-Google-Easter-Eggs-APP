@@ -44,6 +44,7 @@
             android:background="@drawable/button_yellow"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
+            android:onClick="doABarrelRollButton"
             android:text="Do a barrel roll" />
 
         <Button

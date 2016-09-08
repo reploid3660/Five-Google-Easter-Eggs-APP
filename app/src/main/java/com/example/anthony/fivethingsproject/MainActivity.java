@@ -13,15 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Do a barrel roll button
-        Button button02 = (Button)findViewById(R.id.do_a_barrel_roll_button);
-        button02.setOnClickListener(new Button.OnClickListener(){
-
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, DoABarrelRoll.class);
-                startActivity(intent);
-            }
-        });
         //Recursion button
         Button button03 = (Button)findViewById(R.id.recursion_button);
         button03.setOnClickListener(new Button.OnClickListener(){
@@ -53,6 +44,12 @@ public class MainActivity extends AppCompatActivity {
     public void atariBreakoutButton(View view){
         //Atari Breakout button
         Intent intent = new Intent(MainActivity.this, AtariBreakout.class);
+        startActivity(intent);
+    }
+
+    public void doABarrelRollButton(View view){
+        //Do a barrel roll button
+        Intent intent = new Intent(MainActivity.this, DoABarrelRoll.class);
         startActivity(intent);
     }
 }
