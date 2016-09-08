@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         button05.setOnClickListener(new Button.OnClickListener() {
 
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, FlipGoogle.class);
+                Intent intent = new Intent(MainActivity.this, FlipChrome.class);
                 startActivity(intent);
             }
         });
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
        **Flip!Google! button
     */
     public void flipGoogleButton(View view) {
-        Intent intent = new Intent(MainActivity.this, FlipGoogle.class);
+        Intent intent = new Intent(MainActivity.this, FlipChrome.class);
         startActivity(intent);
     }
 }

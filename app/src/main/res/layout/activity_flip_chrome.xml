@@ -9,7 +9,7 @@
         android:layout_height="match_parent"
         android:layout_margin="16dp"
         android:orientation="vertical"
-        tools:context="com.example.anthony.fivethingsproject.FlipGoogle">
+        tools:context=".FlipChrome">
 
         <TextView
             style="@style/paragraph"
@@ -47,11 +47,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            android:src="@drawable/flip_google_1"/>
+            android:src="@drawable/flip_chrome_1"/>
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/flip_google_2"/>
+            android:src="@drawable/flip_chrome_2"/>
     </LinearLayout>
 </ScrollView>

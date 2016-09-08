@@ -83,7 +83,7 @@
             android:onClick="flipGoogleButton"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
-            android:text="Flip! Google! (Smartphones only)" />
+            android:text="Flip! Chrome! (Smartphones only)" />
 
     </LinearLayout>
 </ScrollView>

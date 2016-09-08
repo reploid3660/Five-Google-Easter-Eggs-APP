@@ -18,7 +18,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="2.Type tic tac toe" />
+            android:text="2.Type in tic tac toe" />
 
         <ImageView
             android:layout_width="wrap_content"

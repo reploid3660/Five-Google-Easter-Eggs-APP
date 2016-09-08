@@ -28,8 +28,8 @@
             android:name=".TicTacToe"
             android:label="Tic Tac Toe" />
         <activity
-            android:name=".FlipGoogle"
-            android:label="Flip! Google!" />
+            android:name=".FlipChrome"
+            android:label="Flip! Chrome!" />
     </application>
 
 </manifest>
