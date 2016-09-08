@@ -17,11 +17,12 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="2.Type do a barrel roll" />
+            android:text="2.Type in do a barrel roll" />
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
             android:src="@drawable/type_do_a_barrel_roll" />
 
         <TextView
@@ -31,6 +32,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="-10dp"
             android:src="@drawable/google_rotate" />
     </LinearLayout>
 </ScrollView>
