@@ -76,9 +76,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /*
-       **Flip!Google! button
+       **Flip!Chrome! button
     */
-    public void flipGoogleButton(View view) {
+    public void flipChromeButton(View view) {
         Intent intent = new Intent(MainActivity.this, FlipChrome.class);
         startActivity(intent);
     }

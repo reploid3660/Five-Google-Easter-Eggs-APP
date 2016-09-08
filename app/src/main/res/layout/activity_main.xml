@@ -80,7 +80,7 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/button_red"
-            android:onClick="flipGoogleButton"
+            android:onClick="flipChromeButton"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Flip! Chrome! (Smartphones only)" />
