@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:background="#f44336"
+            android:background="@drawable/button_red"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Atari Breakout" />
@@ -38,7 +38,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:background="#ffc107"
+            android:background="@drawable/button_yellow"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Do a barrel roll" />
@@ -49,7 +49,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:background="#3f51b5"
+            android:background="@drawable/button_blue"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Recursion" />
@@ -60,7 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:background="#4caf50"
+            android:background="@drawable/button_green"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Tic tac toe" />
@@ -71,7 +71,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:background="#f44336"
+            android:background="@drawable/button_red"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
             android:text="Flip! Google! (Smartphones only)" />
