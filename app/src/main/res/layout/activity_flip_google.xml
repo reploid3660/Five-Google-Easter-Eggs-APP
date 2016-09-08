@@ -26,6 +26,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
             android:src="@drawable/smart_phone_1" />
 
         <TextView
@@ -35,6 +36,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
             android:src="@drawable/smart_phone_2" />
 
         <TextView
@@ -44,6 +46,7 @@
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
             android:src="@drawable/flip_google_1"/>
 
         <ImageView
