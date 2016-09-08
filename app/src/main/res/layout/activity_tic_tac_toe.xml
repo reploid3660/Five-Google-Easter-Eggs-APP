@@ -11,13 +11,11 @@
         tools:context="com.example.anthony.fivethingsproject.TicTacToe">
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="1.Go to google" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="2.Type tic tac toe" />
 
         <ImageView
@@ -26,8 +24,7 @@
             android:src="@drawable/type_tic_tac_toe" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            style="@style/paragraph"
             android:text="3.You will see the game board like this" />
 
         <ImageView
@@ -36,8 +33,7 @@
             android:src="@drawable/tic_tac_toe_game" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="4.Choose the level and O/ X to play!" />
+            style="@style/paragraph"
+            android:text="4.Choose difficulty, O/X and play!" />
     </LinearLayout>
 </ScrollView>
