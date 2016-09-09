@@ -45,4 +45,13 @@
     <string name="step_2_3">
         <xliff>3.</xliff>Watch <xliff>Google</xliff> search page rotate!
     </string>
+    <string name="step_3_2">
+        <xliff>2.</xliff>Type in <xliff>\"recursion\"</xliff>
+    </string>
+    <string name="step_3_3">
+        <xliff>3.</xliff>You will see the following result
+    </string>
+    <string name="step_3_4">
+        <xliff>4.</xliff>Click on <xliff>\"recursion\"</xliff>, and see what happens?
+    </string>
 </resources>

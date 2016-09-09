@@ -7,7 +7,7 @@
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:orientation="vertical"
         tools:context="com.example.anthony.fivethingsproject.Recursion">
@@ -18,7 +18,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="2.Type in recursion" />
+            android:text="@string/step_3_2" />
 
         <ImageView
             android:layout_width="wrap_content"
@@ -28,7 +28,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="3.You will see the following result" />
+            android:text="@string/step_3_3" />
 
         <ImageView
             android:layout_width="wrap_content"
@@ -39,6 +39,6 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="4.Click on recursion, and see what happens?" />
+            android:text="@string/step_3_4" />
     </LinearLayout>
 </ScrollView>
