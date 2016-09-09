@@ -19,9 +19,9 @@
     <string name="tic_tac_toe">
         <xliff>Tic Tac Toe</xliff>
     </string>
-    <!-- Exception: Smartphones only needs translation -->
+    <!-- Exception: flip,Smartphones only needs translation -->
     <string name="flip_chrome">
-        <xliff>Flip! Chrome!</xliff>(Smartphones only)
+        Flip! <xliff>Chrome!</xliff>(Smartphones only)
     </string>
     <!-- step go to google -->
     <string name="step_go_to_google">
