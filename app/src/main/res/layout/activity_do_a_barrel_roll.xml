@@ -6,14 +6,14 @@
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:orientation="vertical"
         tools:context="com.example.anthony.fivethingsproject.DoABarrelRoll">
 
         <TextView
             style="@style/paragraph"
-            android:text="1.Go to google" />
+            android:text="@string/step_go_to_google" />
 
         <TextView
             style="@style/paragraph"

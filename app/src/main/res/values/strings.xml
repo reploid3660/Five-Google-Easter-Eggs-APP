@@ -6,7 +6,7 @@
 
         Have fun!
     </string>
-    <!--Words in the buttons, no need to change-->
+    <!-- Words in the buttons, no need to change -->
     <string name="atari_breakout">
         <xliff>Atari Breakout</xliff>
     </string>
@@ -19,9 +19,18 @@
     <string name="tic_tac_toe">
         <xliff>Tic Tac Toe</xliff>
     </string>
-    <!--Exception: Smartphones only needs translation-->
+    <!-- Exception: Smartphones only needs translation -->
     <string name="flip_chrome">
         <xliff>Flip! Chrome!</xliff>(Smartphones only)
     </string>
-
+    <!-- step go to google -->
+    <string name="step_go_to_google">
+        <xliff>1.</xliff>Go to <xliff>Google</xliff>
+    </string>
+    <!-- strings below will follow with 2 numbers(eg.step_1_1) -->
+    <!-- the first number means which button(eg.1 = atari breakout button)-->
+    <!-- the second number means step in that button -->
+    <string name="step_1_1">
+        <xliff>1.</xliff>Go to <xliff>Google</xliff> and click on \"Images\"
+    </string>
 </resources>

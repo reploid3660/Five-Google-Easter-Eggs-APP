@@ -14,7 +14,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="1.Go to google" />
+            android:text="@string/step_go_to_google" />
 
         <TextView
             style="@style/paragraph"
