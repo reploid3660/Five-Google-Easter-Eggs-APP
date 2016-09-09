@@ -33,4 +33,10 @@
     <string name="step_1_1">
         <xliff>1.</xliff>Go to <xliff>Google</xliff> and click on \"Images\"
     </string>
+    <string name="step_1_2">
+        <xliff>2.</xliff>Type in <xliff>\"atari breakout\"</xliff>
+    </string>
+    <string name="step_1_3">
+        <xliff>3.</xliff>Enjoy the classic game!
+    </string>
 </resources>
