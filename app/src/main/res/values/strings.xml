@@ -39,4 +39,10 @@
     <string name="step_1_3">
         <xliff>3.</xliff>Enjoy the classic game!
     </string>
+    <string name="step_2_2">
+        <xliff>2.</xliff>Type in <xliff>\"do a barrel roll\"</xliff>
+    </string>
+    <string name="step_2_3">
+        <xliff>3.</xliff>Watch <xliff>Google</xliff> search page rotate!
+    </string>
 </resources>

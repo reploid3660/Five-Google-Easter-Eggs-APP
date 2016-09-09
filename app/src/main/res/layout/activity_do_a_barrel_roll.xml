@@ -17,7 +17,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="2.Type in do a barrel roll" />
+            android:text="@string/step_2_2" />
 
         <ImageView
             android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="3.Watch Google search page rotate!" />
+            android:text="@string/step_2_3" />
 
         <ImageView
             android:layout_width="wrap_content"
