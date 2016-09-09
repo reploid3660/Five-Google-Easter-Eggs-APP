@@ -18,9 +18,16 @@
     <string name="step_4_4"><xliff>4.</xliff>選擇難易度,<xliff>O/X</xliff>後就開始遊戲吧!</string>
     <string name="step_5_1"><xliff>1.</xliff>打開你的<xliff>\"Chrome\"</xliff>瀏覽器</string>
     <string name="step_5_2_1"><xliff>2.</xliff>點擊螢幕右上的框框(裡面有個數字)</string>
-    <string name="step_5_2_2">這時你的螢幕看起來應該會是像這樣子</string>
+    <string name="step_5_2_2">這時您的螢幕看起來應該會是像這樣子</string>
     <string name="step_5_3"><xliff>3.</xliff>向上滑你的螢幕<xliff>5</xliff>次,看看會發生什麼!</string>
     <string name="step_5_note">提醒:這個彩蛋只適用於網頁瀏覽器<xliff>\"Chrome\"</xliff></string>
     <string name="step_go_to_google"><xliff>1.</xliff>前往<xliff>Google</xliff></string>
     <string name="tic_tac_toe"><xliff>Tic Tac Toe</xliff></string>
+    <string name="foreword">
+        以下所有的\"彩蛋\",作者我都有親自測試過(2016年9月6號)且確定沒問題,別擔心!
+
+        \n\n由於搜尋的關鍵字改為其他語言後不見得有效,本人在此只提供英文版的關鍵字.當然您也可以換成自己的母語試試=)
+
+        \n\n請享受吧!
+    </string>
 </resources>
