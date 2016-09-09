@@ -6,22 +6,22 @@
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:orientation="vertical"
         tools:context=".FlipChrome">
 
         <TextView
             style="@style/paragraph"
-            android:text="Note:This trick can only be applied on web browser Chrome" />
+            android:text="@string/step_5_note" />
 
         <TextView
             style="@style/paragraph"
-            android:text="1.Open up your Chrome" />
+            android:text="@string/step_5_1" />
 
         <TextView
             style="@style/paragraph"
-            android:text="2.Click the square (with number in it) at the top-right of the screen" />
+            android:text="@string/step_5_2_1" />
 
         <ImageView
             android:layout_width="wrap_content"
@@ -31,7 +31,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="Then your screen should be something like this" />
+            android:text="@string/step_5_2_2" />
 
         <ImageView
             android:layout_width="wrap_content"
@@ -41,7 +41,7 @@
 
         <TextView
             style="@style/paragraph"
-            android:text="3.Slide your phone upward 5 times and see what happens!" />
+            android:text="@string/step_5_3" />
 
         <ImageView
             android:layout_width="wrap_content"

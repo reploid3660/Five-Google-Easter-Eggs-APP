@@ -63,4 +63,19 @@
     <string name="step_4_4">
         <xliff>4.</xliff>Choose difficulty, <xliff>O/X</xliff> and play!
     </string>
+    <string name="step_5_note">
+        Note:This trick can only be applied on web browser <xliff>\"Chrome\"</xliff>
+    </string>
+    <string name="step_5_1">
+        <xliff>1.</xliff>Open up your <xliff>\"Chrome\"</xliff>
+    </string>
+    <string name="step_5_2_1">
+        <xliff>2.</xliff>Click the square (with number in it) at the top-right of the screen
+    </string>
+    <string name="step_5_2_2">
+        Then your screen should be something like this
+    </string>
+    <string name="step_5_3">
+        <xliff>3.</xliff>Slide your screen upward <xliff>5</xliff> times and see what happens!
+    </string>
 </resources>
