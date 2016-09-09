@@ -54,4 +54,13 @@
     <string name="step_3_4">
         <xliff>4.</xliff>Click on <xliff>\"recursion\"</xliff>, and see what happens?
     </string>
+    <string name="step_4_2">
+        <xliff>2.</xliff>Type in <xliff>\"tic tac toe\"</xliff>
+    </string>
+    <string name="step_4_3">
+        <xliff>3.</xliff>You will see the game board like this
+    </string>
+    <string name="step_4_4">
+        <xliff>4.</xliff>Choose difficulty, <xliff>O/X</xliff> and play!
+    </string>
 </resources>
